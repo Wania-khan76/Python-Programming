@@ -1,0 +1,10 @@
+#Write a Python function to check if two strings are anagrams. An anagram is a word or phrase formed by rearranging the letters of another. The function should return True if the input strings are anagrams, and False otherwise.
+
+>>> are_anagrams("listen", "silent")
+True
+
+>>> are_anagrams("python", "java")
+False
+
+>>> are_anagrams("debit card", "bad credit")
+True
